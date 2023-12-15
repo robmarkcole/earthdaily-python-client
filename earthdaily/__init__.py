@@ -1,3 +1,3 @@
-from . import earthdatastore, datasets
+from . import earthdatastore, datasets, plot
 
 __version__ = "0.0.1"
