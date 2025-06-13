@@ -16,7 +16,7 @@ dependencies:
   - xarray>=2024.7.0
   - rasterio 
   - rioxarray
-  - matplotlib<3.9
+  - matplotlib
   - matplotx
   - psycopg2
   - vertica-python

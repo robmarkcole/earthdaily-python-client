@@ -21,7 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     install_requires=[
         "numpy",
-        "matplotlib<3.9",
+        "matplotlib",
         "joblib",
         "scipy",
         "psutil",
